@@ -1,2 +1,2 @@
-# CashAdvanceNUIAutomates
-This is project is for NUI selenium automation
+# Automates
+This is project is for selenium automation
